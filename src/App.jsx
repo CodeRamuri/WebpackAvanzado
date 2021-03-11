@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app">
       <h1>
-        Hola chimicuiles de React 
+        Hola hijos de maiz 
         <img src={logo} width="25" alt="react logo" />
       </h1>
       <div>
